@@ -1,0 +1,14 @@
+{
+  "name": "exercicio_criando_tipos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc"
+  },
+  "author": "Leonardo Ramidan",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
